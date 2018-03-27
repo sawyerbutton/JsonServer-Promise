@@ -16,3 +16,4 @@ or
 
 
 # JsonServer-Promise
+using Promise rather than RXJS to connect the json server, save as a backup
